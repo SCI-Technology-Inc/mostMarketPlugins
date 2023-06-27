@@ -1,0 +1,35 @@
+/*
+This file is part of is free software.
+*/
+/*
+    Created on : 15.06.2023, 13:39:26
+    Author     : Dmitrij Nedeljković https://dmitrydevelopment.com/
+*/
+
+.forminp-text .most_market_input_txt {
+    width: 400px;
+    margin: 0;
+    padding: 6px;
+    box-sizing: border-box;
+    vertical-align: top;
+}
+.y_save_btn, .y_edit_save_btn{
+    padding: 10px 40px;
+    color: #fff;
+    background: #b6337e;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.y_save_btn:hover, .y_edit_save_btn:hover{
+    background: #b45e8f;
+}
+.form-table th {
+    margin-bottom: 9px;
+    padding: 15px 10px;
+    line-height: 1.3;
+    vertical-align: middle;
+    font-weight: 500 !important;
+}
+.form-table .second_th th{
+    background: #f9f9f9;
+}

@@ -1,0 +1,210 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: woomostmarket\n"
+"POT-Creation-Date: 2023-06-23 11:37+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Myname <myemail@gmail.com>\n"
+"Language-Team: My Super Team\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;"
+"_nx_noop:1,2,3c;esc_attr__;esc_attr_e;esc_html__;esc_html_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 3.3.1\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: node_modules\n"
+
+#: woomostmarket.php:27
+msgid ""
+"WooCommerce MOST Market - wordpress plugin for implementing the interaction "
+"of partners-sellers with the platform MOST Market."
+msgstr ""
+"WooCommerce MOST Market - wordpress плагин для реализации взаимодействия "
+"партнеров-продавцов с платформой MOST Market."
+
+#: woomostmarket.php:38 woomostmarket.php:53
+msgid "Setup"
+msgstr "Настройки"
+
+#: woomostmarket.php:42
+msgid "Coupons type"
+msgstr "Типы купонов"
+
+#: woomostmarket.php:46
+msgid "Reports"
+msgstr "Отчеты"
+
+#: woomostmarket.php:108
+msgid "WooCommerce not installed or activated"
+msgstr "WooCommerce не установлен или не активирован"
+
+#: woomostmarket.php:117
+msgid "Coupons are not allowed in WooCommerce settings!"
+msgstr "В настройках WooCommerce не разрешено использование купонов!"
+
+#: woomostmarket.php:119
+msgid "Enable coupons in WooCommerce settings"
+msgstr "Включите купоны в настройказ WooComerce"
+
+#: woomostmarket.php:120
+msgid "WooCommerce -> Settings -> Coupon Usage -> Enable Coupon Usage"
+msgstr ""
+"WooComerce -> Настройки -> Использование купонов -> Включить использование "
+"купонов"
+
+#: woomostmarket.php:141
+msgid "MOST Market for WooCommerce - Setup"
+msgstr "MOST Market  для  WooCommerce - основные настройки"
+
+#: woomostmarket.php:152
+msgid "API URL"
+msgstr ""
+
+#: woomostmarket.php:160
+msgid "KEY"
+msgstr ""
+
+#: woomostmarket.php:168
+msgid "Secret"
+msgstr ""
+
+#: woomostmarket.php:176
+msgid "Show coupons in order list"
+msgstr "Показывать купоны в списке заказов"
+
+#: woomostmarket.php:186
+msgid "Save"
+msgstr "Сохранить настройки"
+
+#: woomostmarket.php:189 woomostmarket.php:343
+msgid "Saved"
+msgstr "Сохранено"
+
+#: woomostmarket.php:251 woomostmarket.php:462
+msgid "MOST Market - Coupons types"
+msgstr "MOST Market - типы купонов"
+
+#: woomostmarket.php:256
+msgid "Coupon types for products"
+msgstr "Типы купонов для товаров"
+
+#: woomostmarket.php:257
+msgid "Coupons without product links will not work!"
+msgstr "Купоны без связей с товарами работать не будут!"
+
+#: woomostmarket.php:266 woomostmarket.php:356
+msgid "Service"
+msgstr "Сервис"
+
+#: woomostmarket.php:269 woomostmarket.php:359 woomostmarket.php:559
+#: woomostmarket.php:679 woomostmarket.php:693
+msgid "Discount"
+msgstr "Скидка"
+
+#: woomostmarket.php:272 woomostmarket.php:362
+msgid "URL"
+msgstr "Ссылка"
+
+#: woomostmarket.php:275 woomostmarket.php:365
+msgid "Min. order price"
+msgstr "Мин. сумма заказа"
+
+#: woomostmarket.php:278 woomostmarket.php:368
+msgid "Max. order price"
+msgstr "Макс. сумма заказа"
+
+#: woomostmarket.php:281
+msgid "Products"
+msgstr "Товары"
+
+#: woomostmarket.php:310
+msgid "Search for a product..."
+msgstr "Поиск по товарам..."
+
+#: woomostmarket.php:339
+msgid "Save product links"
+msgstr "Сохранить связи с товарами"
+
+#: woomostmarket.php:346
+msgid "Cart Coupon Types"
+msgstr "Типы купонов для корзины"
+
+#: woomostmarket.php:444
+msgid "Please enter 3 or more characters"
+msgstr "Нужно ввести больше трех символов"
+
+#: woomostmarket.php:447
+msgid "No Results Found"
+msgstr "Ничего не найдено"
+
+#: woomostmarket.php:450
+msgid "Searching..."
+msgstr "Поиск..."
+
+#: woomostmarket.php:467
+msgid "Settings not specified!"
+msgstr "Не верны или не указаны настройки!"
+
+#: woomostmarket.php:468
+msgid "Check the link, key and secret in the settings section"
+msgstr "Проверьте правильность заполнения основных настроек"
+
+#: woomostmarket.php:505
+msgid "MOST Market - reports on used MOST Market coupons"
+msgstr "MOST Market - отчеты по использованным купонам MOST Market"
+
+#: woomostmarket.php:508 woomostmarket.php:533
+msgid "Create report"
+msgstr "Создать отчет"
+
+#: woomostmarket.php:515
+msgid "From:"
+msgstr "С даты:"
+
+#: woomostmarket.php:523
+msgid "To:"
+msgstr "По дату:"
+
+#: woomostmarket.php:536
+msgid "Download report"
+msgstr "Скачать отчет"
+
+#: woomostmarket.php:541
+msgid "Last 20 orders"
+msgstr "Последние 20 заказов"
+
+#: woomostmarket.php:550 woomostmarket.php:679 woomostmarket.php:693
+msgid "Date"
+msgstr "Дата"
+
+#: woomostmarket.php:553 woomostmarket.php:679 woomostmarket.php:693
+msgid "Order ID"
+msgstr "ID Заказа"
+
+#: woomostmarket.php:556 woomostmarket.php:679 woomostmarket.php:693
+#: woomostmarket.php:881
+msgid "Coupons"
+msgstr "Купоны"
+
+#: woomostmarket.php:562 woomostmarket.php:679 woomostmarket.php:693
+msgid "Total"
+msgstr "Итого"
+
+#: woomostmarket.php:675
+msgid "Total for all orders: "
+msgstr "Итого по заказам: "
+
+#: woomostmarket.php:920
+msgid "Custom Tab"
+msgstr ""
+
+#~ msgid "Setupss"
+#~ msgstr "sdvsdbsd"
+
+#~ msgid "WordPress translation functions."
+#~ msgstr "dfghdrherhrhjr"
